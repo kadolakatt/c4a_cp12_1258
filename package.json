@@ -1,0 +1,27 @@
+{
+  "name": "c4a_cp12_1258",
+  "version": "1.0.0",
+  "description": "Componente Practico 12",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadolakatt/c4a_cp12_1258.git"
+  },
+  "keywords": [
+    "componente",
+    "practico",
+    "12"
+  ],
+  "author": "misiontic 2022",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadolakatt/c4a_cp12_1258/issues"
+  },
+  "homepage": "https://github.com/kadolakatt/c4a_cp12_1258#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
